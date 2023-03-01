@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class testConversor_Monedas {
     
     public static void main(String[] args) {
-
+      new inicio_panel().setVisible(true);
        
        
    
